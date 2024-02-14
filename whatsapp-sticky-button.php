@@ -5,8 +5,7 @@ Description: Adds a floating WhatsApp button for easy chat initiation.
 Version: 1.0
 Author: Mohamed KADI
 Author URI: https://www.mohamedkadi.com
-Plugin URI: https://www.mohamedkadi.com/whatsapp-sticky-button
-Documentation: https://www.mohamedkadi.com/whatsapp-sticky-button-docs
+Plugin URI: https://www.mohamedkadi.com/project/whatsapp-sticky-button
 License: GPL v2 or later
 Tested up to: 6.4.3
 Requires at least: 6.0.0
