@@ -1,0 +1,25 @@
+#whatsapp-sticky-button {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+#whatsapp-sticky-button a  {
+    padding: 3px 12px 3px 6px;
+    background-color: #ffffffb3;
+    color: #898989;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#whatsapp-sticky-button a img {
+    width: 60px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 50%;
+}
